@@ -136,7 +136,7 @@
     "react-addons-test-utils": "^15.0.0",
     "react-hot-loader": "^4.3.11",
     "regenerator-runtime": "^0.12.1",
-    "sinon": "^7.1.1",
+    "sinon": "^11.1.1",
     "webpack-dev-middleware": "^3.4.0",
     "webpack-hot-middleware": "^2.25.0"
   },
